@@ -4,7 +4,7 @@
 
 This is a simple HTML email template that you can use to send emails from your application. The template looks nice in most email clients, including mobile.
 
-Here's a preview of the template you can modify:
+You can view the HTML page [here](https://philwonski.github.io/html-email-template/HTML_Email_Template.html) and below is a screen grab:
 
 ![Email Template Preview](preview.png)
 
